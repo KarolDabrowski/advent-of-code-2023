@@ -1,2 +1,4 @@
 # advent-of-code-2023
-Yet another repo that I will likely fail to finish, probably somwhere at day 4th of trying to keep up with daily advent tasks :D 
+https://adventofcode.com/
+- solutions for each of days are written in functions in src/day-xx
+- to test them against inputs, you need a jestJS runner extension in your VS code https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner to run the test suites conveniently.
